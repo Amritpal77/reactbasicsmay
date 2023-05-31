@@ -10,7 +10,7 @@ function App(){
    <>
     <div className={isHeading ? "bg-danger":""}>
       <Newreact/>
-      <p>{title}</p>
+      {/* <p>{title}</p> */}
      
     
     </div>
